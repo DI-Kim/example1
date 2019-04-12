@@ -1,4 +1,4 @@
-To Do List - 2019. 04. 11(Thu)
+To Do List - 2019. 04. 12(Fri)
 ---
 1. markdown에 대한 단축키 익히기
 2. 4월까지
@@ -9,3 +9,4 @@ To Do List - 2019. 04. 11(Thu)
     - MakeApp
     - Unity
 4. 간이사업자에 대해 알아보기
+5. No stitch leather item 구현
