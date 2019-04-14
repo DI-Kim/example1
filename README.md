@@ -1,4 +1,4 @@
-To Do List - 2019. 04. 12(Fri)
+To Do List - 2019. 04. 14(Sun)
 ---
 1. markdown에 대한 단축키 익히기
 2. 4월까지
