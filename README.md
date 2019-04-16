@@ -1,8 +1,9 @@
-To Do List - 2019. 04. 14(Sun)
+To Do List - 2019. 04. 16(Tue)
 ---
 1. markdown에 대한 단축키 익히기
 2. 4월까지
-    - 파이썬 강의 다 듣기
+    - 파이썬 강의 다 듣기(완료)
+    - html 및 javascript 복기
     - React
     - Node.js
 3. 5월부터
