@@ -1,8 +1,8 @@
-To Do List - 2019. 04. 17(Wed)
+To Do List - 2019. 04. 24(Wed)
 ---
 1. markdown에 대한 단축키 익히기
 2. fullStack engineer
-    - html 복기
+    - html 복기(완료)
     - javascript 복기
     - ReactJS
     - NodeJS
