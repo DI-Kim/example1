@@ -1,4 +1,4 @@
-To Do List - 2019. 04. 29(Mon)
+To Do List - 2019. 05. 16(THU)
 ---
 1. markdown에 대한 단축키 익히기
 2. fullStack engineer
